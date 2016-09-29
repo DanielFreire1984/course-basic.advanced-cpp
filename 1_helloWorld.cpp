@@ -9,6 +9,7 @@
 
 using namespace std;
 
+//Main function. Mandatory to all .cpp code
 int main(int argc, char *argv[])
 {
 	// function used to print out any message
