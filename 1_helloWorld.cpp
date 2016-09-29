@@ -11,6 +11,7 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
+	// function used to print out any message
 	cout << "My first Hello World on C++ language! :D" << endl;
 	
 	return 0;
