@@ -6,8 +6,8 @@
  * @author: Daniel Freire
  * @date: 03/16/2007
  * 
- * Note: The 3 function called add
- * has diferent parameters
+ * Note: The 3 functions called add
+ * has same name and diferent parameters
  */
 
 #include <iostream>
