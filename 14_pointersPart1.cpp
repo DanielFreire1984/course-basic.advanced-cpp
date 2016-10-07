@@ -1,4 +1,5 @@
 /**
+ * Part 1:
  * This example code shows how to declare and
  * use a pointer variable
  *
