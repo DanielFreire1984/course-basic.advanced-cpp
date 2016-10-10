@@ -4,7 +4,7 @@
  * C++ language.
  * 
  * @author: Daniel Freire
- * @date: 03/16/2007
+ * @date: 03/17/2007
  * 
  * Note: In this example is created a class
  * with three attributes name, cpf and age
