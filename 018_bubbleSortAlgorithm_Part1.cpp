@@ -1,11 +1,11 @@
 /**
- * This file show a simple example
- * of the bubble sort algorithm in
+ * Part1: This file show a simple example
+ * of the bubble sort algorithm
+ * to sort a vector of the int values.
  * C++ language.
  * 
  * @author: Daniel Freire
  * @date: 03/17/2007
- * 
  */
 
 #include <iostream>
